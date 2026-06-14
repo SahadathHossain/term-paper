@@ -1,0 +1,22 @@
+{
+  "name": "term-paper-generator",
+  "version": "1.0.0",
+  "description": "Generate a professionally formatted term paper on Digital Transformation in HRM Bangladesh",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js",
+    "generate": "node generate.js"
+  },
+  "keywords": [
+    "term-paper",
+    "HRM",
+    "digital-transformation",
+    "Bangladesh",
+    "docx"
+  ],
+  "author": "Sahadath Hossain",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.12.0"
+  }
+}
